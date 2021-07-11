@@ -1,2 +1,1 @@
-# EPIC-ARCHERY-5
-EPIC ARCHERY 5
+# Project Template 27
